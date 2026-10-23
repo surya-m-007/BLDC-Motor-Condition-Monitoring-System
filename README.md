@@ -1,4 +1,4 @@
-# 🚀 Intelligent PWM-Based BLDC Motor Drive with Real-Time Condition Monitoring, Energy Analytics and Predictive Maintenance
+# 🚀 Intelligent BLDC Motor Drive with Real-Time Condition Monitoring, Energy Analytics and Predictive Maintenance
 
 > Industrial IoT-based BLDC motor monitoring system using **ESP32**, **Blynk IoT**, **MATLAB/Simulink**, and multiple sensors for real-time condition monitoring, fault detection, energy analytics, and predictive maintenance.
 

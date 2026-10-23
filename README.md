@@ -47,12 +47,12 @@ The system combines embedded hardware, IoT cloud monitoring, OLED visualization,
 # 📸 Project Gallery
 
 ## Circuit Diagram
-![Circuit](Circuit_Diagram/Circuit_Diagram.png)
+(Circuit_Diagram/Circuit_Diagram.png)
 
 
 
 ## Hardware Setup
-![Hardware](Hardware/Hardware_Setup.jpg)
+(Hardware/Hardware_Setup.jpg)
 
 
 
@@ -124,7 +124,8 @@ The Blynk dashboard displays:
 - Health Score
 - Fault Status
 - Performance Index
-
+## Blynk Dashboard
+(Images/Blynk_Dashboard.png)
 
 ---
 
@@ -140,7 +141,7 @@ The MATLAB model is used to validate:
 Simulation files are available in the **MATLAB** folder
 .
 ## MATLAB Simulation
-![Simulation](MATLAB/Simulink_Model.png)
+(MATLAB/Simulink_Model.png)
 ---
 
 # 📂 Repository Structure

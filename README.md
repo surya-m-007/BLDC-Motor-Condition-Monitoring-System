@@ -44,6 +44,18 @@ The system combines embedded hardware, IoT cloud monitoring, OLED visualization,
 | MPU6050 | Vibration Monitoring |
 | OLED SSD1327 Display | Local Display |
 | 24V SMPS | Power Supply |
+# 📸 Project Gallery
+
+## Circuit Diagram
+![Circuit](Circuit_Diagram/Circuit_Diagram.png)
+
+
+
+## Hardware Setup
+![Hardware](Hardware/Hardware_Setup.jpg)
+
+
+
 
 ---
 
@@ -113,6 +125,7 @@ The Blynk dashboard displays:
 - Fault Status
 - Performance Index
 
+
 ---
 
 # 📈 MATLAB/Simulink
@@ -124,8 +137,10 @@ The MATLAB model is used to validate:
 - Energy Analysis
 - Motor Characteristics
 
-Simulation files are available in the **MATLAB** folder.
-
+Simulation files are available in the **MATLAB** folder
+.
+## MATLAB Simulation
+![Simulation](MATLAB/Simulink_Model.png)
 ---
 
 # 📂 Repository Structure
